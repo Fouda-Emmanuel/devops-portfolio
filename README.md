@@ -1,4 +1,4 @@
-# DevOps & Cloud Projects – Fouda Aime Emmanuel
+# DevOps & Cloud Projects
 
 Welcome! This repository showcases my professional DevOps and cloud projects.  
 Each project is presented with an overview, documentation, and a link to its dedicated repository.

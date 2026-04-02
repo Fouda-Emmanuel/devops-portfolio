@@ -11,25 +11,31 @@ Each project is presented with an overview, documentation, and a link to its ded
 
 ---
 
-## 2️⃣ Terraform & Ansible – ALB VPC Architecture
+## 2️⃣ Terraform AWS Multi-Tier State
+**Description:** Complete multi-tier infrastructure provisioning on AWS using Terraform with a focus on centralized state management. Deploys VPC with public/private subnets across multiple AZs, bastion host, RDS, ElastiCache, Amazon MQ, and Elastic Beanstalk. Implements remote state storage with S3 and state locking with DynamoDB — not just automation, but professional infrastructure state management.  
+**Repository:** [terraform-aws-multi-tier-state](https://github.com/Fouda-Emmanuel/terraform-aws-multi-tier-state.git)
+
+---
+
+##  Terraform & Ansible – ALB VPC Architecture
 **Description:** Builds a highly available AWS web architecture with VPC, multi-AZ setup, and ALB. EC2 instances configured with Ansible.  
 **Repository:** *[terraform-ansible-alb-vpc](https://github.com/Fouda-Emmanuel/terraform-ansible-alb-vpc.git)*
 
 ---
 
-## 3️⃣ Lift & Shift – AWS Console
+## Lift & Shift – AWS Console
 **Description:** Migration of the VProfile multi-tier app to AWS using Classic Load Balancer, Auto Scaling, EC2, RDS, Memcached, and RabbitMQ.  
 **Repository:** [lift-and-shift-aws-console](https://github.com/Fouda-Emmanuel/lift-and-shift-aws-console.git)
 
 ---
 
-## 4️⃣ Terraform & Ansible – Multi-Instance Nginx
+## Terraform & Ansible – Multi-Instance Nginx
 **Description:** Provisions two AWS EC2 instances running Nginx using Terraform and Ansible.  
 **Repository:** *[terraform-ansible-multi-instance-nginx](https://github.com/Fouda-Emmanuel/terraform-ansible-multi-instance-nginx.git)*
 
 ---
 
-## 5️⃣ Terraform & Ansible – EC2 Nginx
+## Terraform & Ansible – EC2 Nginx
 **Description:** Provisions a single EC2 instance with Nginx using Terraform and Ansible, demonstrating IaC workflow.  
 **Repository:** *[terraform-ansible-ec2-nginx](https://github.com/Fouda-Emmanuel/terraform-ansible-ec2-nginx.git)*
 

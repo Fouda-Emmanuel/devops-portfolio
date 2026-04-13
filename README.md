@@ -25,7 +25,7 @@ Each project is presented with an overview, documentation, and a link to its ded
 
 ---
 
-## 2️⃣ Terraform AWS Multi-Tier State
+## 4️⃣ Terraform AWS Multi-Tier State
 **Description:** Complete multi-tier infrastructure provisioning on AWS using Terraform with a focus on centralized state management. Deploys VPC with public/private subnets across multiple AZs, bastion host, RDS, ElastiCache, Amazon MQ, and Elastic Beanstalk. Implements remote state storage with S3 and state locking with DynamoDB — not just automation, but professional infrastructure state management.  
 **Repository:** [terraform-aws-multi-tier-state](https://github.com/Fouda-Emmanuel/terraform-aws-multi-tier-state.git)
 

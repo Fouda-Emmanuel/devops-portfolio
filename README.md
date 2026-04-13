@@ -11,6 +11,20 @@ Each project is presented with an overview, documentation, and a link to its ded
 
 ---
 
+## 2️⃣ Java BuildFlow CI System
+
+**Description:** Automated CI pipeline for Java applications with build, testing, and code quality analysis. Integrates Maven, SonarQube, Nexus, and Slack for continuous feedback and artifact management.   
+**Repository:** [java-buildflow-ci-system](https://github.com/Fouda-Emmanuel/java-buildflow-ci-system.git)
+
+---
+
+## 3️⃣ AWS ShipFlow CD System
+
+**Description:** Continuous Delivery pipeline for containerized applications using Docker, Amazon ECR, and ECS. Implements automated deployment workflows with staging and production environments via AWS CLI.   
+**Repository:** [aws-shipflow-cd-system](https://github.com/Fouda-Emmanuel/aws-shipflow-cd-system.git)
+
+---
+
 ## 2️⃣ Terraform AWS Multi-Tier State
 **Description:** Complete multi-tier infrastructure provisioning on AWS using Terraform with a focus on centralized state management. Deploys VPC with public/private subnets across multiple AZs, bastion host, RDS, ElastiCache, Amazon MQ, and Elastic Beanstalk. Implements remote state storage with S3 and state locking with DynamoDB — not just automation, but professional infrastructure state management.  
 **Repository:** [terraform-aws-multi-tier-state](https://github.com/Fouda-Emmanuel/terraform-aws-multi-tier-state.git)
